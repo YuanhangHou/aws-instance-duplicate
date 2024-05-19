@@ -1,0 +1,411 @@
+{
+  "name": "Root",
+  "children": [
+    {
+      "name": "feature 0 <= 2.6735537653587347",
+      "children": [
+        {
+          "name": "feature 0 <= 2.0126758453675744",
+          "children": [
+            {
+              "name": "feature 1 <= 3377500.0",
+              "children": [
+                {
+                  "name": "feature 7 <= 2008.5",
+                  "children": [
+                    {
+                      "name": "feature 1 <= 2487500.0",
+                      "children": [
+                        {
+                          "name": "Predict: -0.9654946494867875"
+                        }
+                      ]
+                    },
+                    {
+                      "name": "feature 1 > 2487500.0",
+                      "children": [
+                        {
+                          "name": "Predict: -0.8877959927140255"
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "name": "feature 7 > 2008.5",
+                  "children": [
+                    {
+                      "name": "feature 6 <= 2.0",
+                      "children": [
+                        {
+                          "name": "Predict: -0.65527950310559"
+                        }
+                      ]
+                    },
+                    {
+                      "name": "feature 6 > 2.0",
+                      "children": [
+                        {
+                          "name": "Predict: -0.8885832187070152"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "name": "feature 1 > 3377500.0",
+              "children": [
+                {
+                  "name": "feature 15 <= 10.995729573939954",
+                  "children": [
+                    {
+                      "name": "feature 1 <= 4202500.0",
+                      "children": [
+                        {
+                          "name": "Predict: -0.6999409332545776"
+                        }
+                      ]
+                    },
+                    {
+                      "name": "feature 1 > 4202500.0",
+                      "children": [
+                        {
+                          "name": "Predict: -0.5323117921385743"
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "name": "feature 15 > 10.995729573939954",
+                  "children": [
+                    {
+                      "name": "feature 12 <= 0.5",
+                      "children": [
+                        {
+                          "name": "Predict: -0.7135678391959799"
+                        }
+                      ]
+                    },
+                    {
+                      "name": "feature 12 > 0.5",
+                      "children": [
+                        {
+                          "name": "Predict: -0.8971631205673759"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "feature 0 > 2.0126758453675744",
+          "children": [
+            {
+              "name": "feature 12 <= 0.5",
+              "children": [
+                {
+                  "name": "feature 1 <= 3768500.0",
+                  "children": [
+                    {
+                      "name": "feature 4 <= 0.5",
+                      "children": [
+                        {
+                          "name": "Predict: -0.2037037037037037"
+                        }
+                      ]
+                    },
+                    {
+                      "name": "feature 4 > 0.5",
+                      "children": [
+                        {
+                          "name": "Predict: -0.5390625"
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "name": "feature 1 > 3768500.0",
+                  "children": [
+                    {
+                      "name": "feature 0 <= 2.2499048351651325",
+                      "children": [
+                        {
+                          "name": "Predict: -0.4228855721393035"
+                        }
+                      ]
+                    },
+                    {
+                      "name": "feature 0 > 2.2499048351651325",
+                      "children": [
+                        {
+                          "name": "Predict: -0.19358074222668004"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "name": "feature 12 > 0.5",
+              "children": [
+                {
+                  "name": "feature 1 <= 3377500.0",
+                  "children": [
+                    {
+                      "name": "feature 15 <= 10.601759058821155",
+                      "children": [
+                        {
+                          "name": "Predict: -0.6836158192090396"
+                        }
+                      ]
+                    },
+                    {
+                      "name": "feature 15 > 10.601759058821155",
+                      "children": [
+                        {
+                          "name": "Predict: -0.8725392058725392"
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "name": "feature 1 > 3377500.0",
+                  "children": [
+                    {
+                      "name": "feature 15 <= 10.901321360868359",
+                      "children": [
+                        {
+                          "name": "Predict: -0.2824427480916031"
+                        }
+                      ]
+                    },
+                    {
+                      "name": "feature 15 > 10.901321360868359",
+                      "children": [
+                        {
+                          "name": "Predict: -0.6395625297194484"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "feature 0 > 2.6735537653587347",
+      "children": [
+        {
+          "name": "feature 1 <= 3495000.0",
+          "children": [
+            {
+              "name": "feature 12 <= 0.5",
+              "children": [
+                {
+                  "name": "feature 0 <= 3.113268334643733",
+                  "children": [
+                    {
+                      "name": "feature 15 <= 10.73044421109451",
+                      "children": [
+                        {
+                          "name": "Predict: -0.04883227176220807"
+                        }
+                      ]
+                    },
+                    {
+                      "name": "feature 15 > 10.73044421109451",
+                      "children": [
+                        {
+                          "name": "Predict: -0.3059250302297461"
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "name": "feature 0 > 3.113268334643733",
+                  "children": [
+                    {
+                      "name": "feature 7 <= 2010.5",
+                      "children": [
+                        {
+                          "name": "Predict: 0.07091737150292778"
+                        }
+                      ]
+                    },
+                    {
+                      "name": "feature 7 > 2010.5",
+                      "children": [
+                        {
+                          "name": "Predict: 0.3783783783783784"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "name": "feature 12 > 0.5",
+              "children": [
+                {
+                  "name": "feature 0 <= 3.1567740231385475",
+                  "children": [
+                    {
+                      "name": "feature 15 <= 10.528864322651984",
+                      "children": [
+                        {
+                          "name": "Predict: -0.24271844660194175"
+                        }
+                      ]
+                    },
+                    {
+                      "name": "feature 15 > 10.528864322651984",
+                      "children": [
+                        {
+                          "name": "Predict: -0.6724137931034483"
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "name": "feature 0 > 3.1567740231385475",
+                  "children": [
+                    {
+                      "name": "feature 1 <= 2698500.0",
+                      "children": [
+                        {
+                          "name": "Predict: -0.49444444444444446"
+                        }
+                      ]
+                    },
+                    {
+                      "name": "feature 1 > 2698500.0",
+                      "children": [
+                        {
+                          "name": "Predict: -0.13575525812619502"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "feature 1 > 3495000.0",
+          "children": [
+            {
+              "name": "feature 0 <= 3.1567740231385475",
+              "children": [
+                {
+                  "name": "feature 15 <= 11.400215781773763",
+                  "children": [
+                    {
+                      "name": "feature 12 <= 0.5",
+                      "children": [
+                        {
+                          "name": "Predict: 0.07490144546649145"
+                        }
+                      ]
+                    },
+                    {
+                      "name": "feature 12 > 0.5",
+                      "children": [
+                        {
+                          "name": "Predict: -0.1517476555839727"
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "name": "feature 15 > 11.400215781773763",
+                  "children": [
+                    {
+                      "name": "feature 15 <= 11.695565169899474",
+                      "children": [
+                        {
+                          "name": "Predict: -0.5625"
+                        }
+                      ]
+                    },
+                    {
+                      "name": "feature 15 > 11.695565169899474",
+                      "children": [
+                        {
+                          "name": "Predict: -1.0"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "name": "feature 0 > 3.1567740231385475",
+              "children": [
+                {
+                  "name": "feature 0 <= 3.511434043041321",
+                  "children": [
+                    {
+                      "name": "feature 12 <= 0.5",
+                      "children": [
+                        {
+                          "name": "Predict: 0.3473507148864592"
+                        }
+                      ]
+                    },
+                    {
+                      "name": "feature 12 > 0.5",
+                      "children": [
+                        {
+                          "name": "Predict: 0.11529627928341754"
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "name": "feature 0 > 3.511434043041321",
+                  "children": [
+                    {
+                      "name": "feature 1 <= 4382500.0",
+                      "children": [
+                        {
+                          "name": "Predict: 0.29734361610968296"
+                        }
+                      ]
+                    },
+                    {
+                      "name": "feature 1 > 4382500.0",
+                      "children": [
+                        {
+                          "name": "Predict: 0.5330073349633252"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
